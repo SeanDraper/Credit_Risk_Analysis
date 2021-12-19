@@ -24,7 +24,7 @@ The purpose of this analysis was to use six different machine learning models to
 
 - Balanced Random Forest had an accuracy score of 77.43%. It had a precision of 4% for high risk users and 100% for low risk users. Its recall was 63% for high risk and 92% for low risk. A screenshot of this analysis is shown below:
 
-![Balanced Random Sampling](Resources/balanced_random_sampling.png)
+![Balanced Random Sampling](Resources/balanced_random_forest.png)
 
 - Easy Ensemple Classifier had an accuracy score of 90.23%. It had a precision of 10% for high risk and 100% for low risk. Its recall was 85% for high risk and 96% for low risk. A screenshot of this analysis is shown below:
 
